@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-logo-recursiva{
+  width: 80px;
+  height: 80px;
+  border-radius: 400px;
+}
+.App-logo-node{
+  margin-left: 1rem;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.table-responsive {
+  overflow-x: inherit;
+  overflow-x:auto !important;
+}
+
+#cardP3{
+  height: 20rem;
+}
+
+.card{
+  margin-top: 1rem;
+}
+
+#cardFilePicker{
+  width: 20rem;
+  margin: 2rem;
+}
+#alertFileOK{
+  width: 70rem;
+}
